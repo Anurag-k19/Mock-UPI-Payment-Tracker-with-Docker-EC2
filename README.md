@@ -19,6 +19,7 @@ A simple mock UPI payment system to demonstrate DevOps skills using Flask, Docke
 sudo docker build -t upi-tracker .
 sudo docker run -d -p 5000:5000 upi-tracker
 
+```
 
 ## 📸 Screenshots
 
